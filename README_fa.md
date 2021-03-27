@@ -17,7 +17,7 @@
       - [سایر اپلیکیشن‌ها]()
    - [آینده برنامه‌نویسی سطح پایین]()
    - [چطور شروع کنیم؟]()
-- [ترجمه]()
+- [ترجمه](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#ترجمه)
 - [درباره مولف]()
 
 دانشگاه برنامه‌نویسی سطح پایین:
