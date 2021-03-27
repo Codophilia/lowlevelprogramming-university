@@ -3,7 +3,7 @@
 توجه:
 لطفا توجه داشته باشید که برنامه نویسی سطح پایین در حال حاضر متقاضیان زیادی نداشته و کمپانی های زیادی اقدام به استخدام برنامه نویس سطح پایین نمی کنند. برای من هم پیدا کردن شغلی در این رابطه همواره سخت تر می‌شود. به همین دلیل توصیه می‌کنم اگر هنوز فعالیت حرفه‌ای خود را شروع نکرده‌اید، سایر زمینه‌ها را نیز در نظر بگیرید. 
 
-- [دانشگاه برنامه‌نویسی سطح پایین](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#دانشگاه برنامه‌نویسی سطح پایی ) 
+- [دانشگاه برنامه‌نویسی سطح پایین](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#دانشگاه برنامه‌نویسی سطح پایین) 
    - [در چه مورد صحبت می‌کنیم؟](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#)
    - [سطح پایین به چه معناست؟](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#)
    -  [تئوری](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#)
