@@ -282,7 +282,7 @@
  
 - وارد زمینه حرفه‌ای شوید.
    - اگر می‌خواهید توسعه دهنده حرفه‌ای هسته لینوکس شوید.
-      - باید کتاب[درک هسته لینوکس](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652/ref=sr_1_1?ie=UTF8&qid=1483650712&sr=8-1&keywords=understanding+linux+kernel
+      - باید کتاب [درک هسته لینوکس](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652/ref=sr_1_1?ie=UTF8&qid=1483650712&sr=8-1&keywords=understanding+linux+kernel
     )
       را بخوانید. 
       - سپس تلاش کنید یک شبه هسته بسازید.
