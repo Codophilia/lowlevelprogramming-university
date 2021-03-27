@@ -3,22 +3,22 @@
 توجه:
 لطفا توجه داشته باشید که برنامه نویسی سطح پایین در حال حاضر متقاضیان زیادی نداشته و کمپانی های زیادی اقدام به استخدام برنامه نویس سطح پایین نمی کنند. برای من هم پیدا کردن شغلی در این رابطه همواره سخت تر می‌شود. به همین دلیل توصیه می‌کنم اگر هنوز فعالیت حرفه‌ای خود را شروع نکرده‌اید، سایر زمینه‌ها را نیز در نظر بگیرید. 
 
-- [دانشگاه برنامه‌نویسی سطح پایین]() 
-   - [در چه مورد صحبت می‌کنیم؟]()
-   - [سطح پایین به چه معناست؟]()
-   -  [تئوری]()
-   -   [زبان‌ها]()
-      - [اسمبلی]()
-      - [سی]()
-   - [اپلیکیشن‌ها]()
-      - [سخت‌افزار و ثابت‌افزار]()
-      - [هسته و درایور لینوکس]()
-         - [منابع]()
-      - [سایر اپلیکیشن‌ها]()
-   - [آینده برنامه‌نویسی سطح پایین]()
-   - [چطور شروع کنیم؟]()
+- [دانشگاه برنامه‌نویسی سطح پایین](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#دانشگاه برنامه‌نویسی سطح پایین) 
+   - [در چه مورد صحبت می‌کنیم؟](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#در چه مورد صحبت می‌کنیم؟)
+   - [سطح پایین به چه معناست؟](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#سطح پایین به چه معناست؟)
+   -  [تئوری](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#تئوری)
+   -   [زبان‌ها](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#زبان‌ها)
+      - [اسمبلی](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#اسمبلی)
+      - [سی](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#سی)
+   - [اپلیکیشن‌ها](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#اپلیکیشن‌ها)
+      - [سخت‌افزار و ثابت‌افزار](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#سخت‌افزار و ثابت‌افزار)
+      - [هسته و درایور لینوکس](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#هسته و درایور لینوکس)
+         - [منابع](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#منابع)
+      - [سایر اپلیکیشن‌ها](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#سایر اپلیکیشن‌ها)
+   - [آینده برنامه‌نویسی سطح پایین](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#آینده برنامه‌نویسی سطح پایین)
+   - [چطور شروع کنیم؟](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#چطور شروع کنیم؟)
 - [ترجمه](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#ترجمه)
-- [درباره مولف]()
+- [درباره مولف](https://github.com/Codophilia/lowlevelprogramming-university/blob/Codophilia-patch-1/README_fa.md#درباره مولف)
 
 دانشگاه برنامه‌نویسی سطح پایین:
 -------------------------------------------------------
